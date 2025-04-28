@@ -1,0 +1,8 @@
+Testing
+echo "# M4Python" >> README.
+md
+git add README.md
+git config --global user.email brentvogelsang@gmail.com
+git config --global user.name brentcv 
+git commit -m "first commit"
+git branch -M main
